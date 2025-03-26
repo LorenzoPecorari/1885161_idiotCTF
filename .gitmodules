@@ -1,21 +1,21 @@
 [submodule "1885161_idiotCTF-contests"]
-	path = 1885161_idiotCTF-contests
+	path = contests-ms
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-contests
 [submodule "1885161_idiotCTF-frontend"]
-	path = 1885161_idiotCTF-frontend
+	path = frontend
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-frontend
 [submodule "1885161_idiotCTF-challenges"]
-	path = 1885161_idiotCTF-challenges
+	path = challenges-ms
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-challenges
 [submodule "1885161_idiotCTF-api-gateway"]
-	path = 1885161_idiotCTF-api-gateway
+	path = api-gateway
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-api-gateway
 [submodule "1885161_idiotCTF-submissions"]
-	path = 1885161_idiotCTF-submissions
+	path = submissions-ms
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-submissions
 [submodule "1885161_idiotCTF-auth-ms"]
-	path = 1885161_idiotCTF-auth-ms
+	path = auth-ms
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-auth-ms
 [submodule "1885161_idiotCTF-mail-sender"]
-	path = 1885161_idiotCTF-mail-sender
+	path = mail-sender
 	url = https://github.com/LorenzoPecorari/1885161_idiotCTF-mail-sender
